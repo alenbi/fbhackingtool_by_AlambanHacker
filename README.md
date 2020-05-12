@@ -6,8 +6,8 @@
 ```$apt upgrade && apt update```
 ```$pkg install python2 git nano```
 ```$pip2 install requests```
-```$git clone https://github.com/TUANB4DUT/FACEBOOK-BRUTEFORCE```
-```$cd FACEBOOK-BRUTEFORCE```
+```$git clone https://github.com/alenbi/fbhackingtool_by_AlambanHacker```
+```$cd fbhackingtool_by_AlambanHacker```
 
 * HOW'S TO CREATE WORDLIST WITH YOURSELF ?
 $nano wordlist.txt
